@@ -1,7 +1,9 @@
 <div align="right">
   Language:
-  <a title="English" href="./README.md">🇺🇸</a>
   🇨🇳
+  <a title="English" href="./README.md">🇺🇸</a>
+  <a title="Spanish" href="./README.es.md">es</a>
+  
 </div>
 
 # MTKClient
