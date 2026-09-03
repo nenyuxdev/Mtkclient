@@ -2,6 +2,7 @@
   Language:
   🇺🇸
   <a title="Chinese" href="./README.zh-CN.md">🇨🇳</a>
+  <a title="Spanish" href="./README.es.md">es</a>
 </div>
 
 # MTKClient
